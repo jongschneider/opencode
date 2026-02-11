@@ -13,6 +13,9 @@ Review uncommitted changes by default. If no uncommitted changes, review the las
 If the user provides a pull request URL or identifier, fetch it and review.
 
 ### Bitbucket
+
+The `bitbucket` CLI is provided by [bitbucket-mcp](https://github.com/MatanYemini/bitbucket-mcp) wrapped with [mcporter](https://github.com/steipete/mcporter/) to produce a standalone CLI binary.
+
 Parse the URL format `https://bitbucket.org/{workspace}/{repo-slug}/pull-requests/{id}` to extract workspace, repo-slug, and pull-request-id. Then run:
 ```
 bitbucket getPullRequest --workspace <workspace> --repo-slug <repo-slug> --pull-request-id <id>

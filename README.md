@@ -22,6 +22,7 @@ cd ~/.config/opencode && bun install
 - [Bun](https://bun.sh) runtime (for custom tools and plugins)
 - [ast-grep](https://ast-grep.github.io) CLI (`brew install ast-grep`)
 - [trash](https://github.com/sindresorhus/trash-cli) CLI (`brew install trash`)
+- [bitbucket](https://github.com/MatanYemini/bitbucket-mcp) CLI — for `/code-review` Bitbucket PR support. Built by wrapping the bitbucket-mcp server with [mcporter](https://github.com/steipete/mcporter/) to produce a standalone CLI binary named `bitbucket`.
 
 ## Structure
 
