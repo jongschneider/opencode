@@ -115,6 +115,10 @@ Plays a system sound (`Glass.aiff`) when:
 - A main session becomes idle (subagent sessions are excluded)
 - A permission prompt is shown
 
+## Credit
+
+Heavily inspired by (read: stolen from) [dmmulroy/.dotfiles](https://github.com/dmmulroy/.dotfiles).
+
 ## License
 
 MIT
