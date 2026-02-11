@@ -7,7 +7,7 @@ Personal [OpenCode](https://opencode.ai) configuration — custom agents, tools,
 Clone into your OpenCode config directory:
 
 ```sh
-git clone git@github.com-personal:jongschneider/opencode.git ~/.config/opencode
+git clone git@github.com:jongschneider/opencode.git ~/.config/opencode
 ```
 
 Install the plugin dependency:
