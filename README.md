@@ -61,7 +61,6 @@ Application-level settings:
 
 - **Theme**: `catppuccin-macchiato`
 - **Keybinds**: Vim-style navigation (`ctrl+u`/`ctrl+d` for half-page scroll), `ctrl+space` leader key
-- **MCP servers**: VS Claude server (disabled by default)
 
 ### `opencode.json`
 
